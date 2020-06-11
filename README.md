@@ -1,6 +1,6 @@
 # layoutchallenge
 
-A new Flutter application.
+Code for Layout-Challenge-Specs.png.
 
 ## Getting Started
 
